@@ -7,3 +7,4 @@
 - For second_rows_dict, the dictionary comprehension takes each row in the second_rows list and creates a key-value pair in the dictionary,
 - Initializes an empty list new_rows to store the new dictionaries that will be created.
 - Run a loops over each row in the first_rows list.
+- appends the new_row dictionary to the new_rows list.
